@@ -1,0 +1,112 @@
+Uri: http://oropendola.dev/favicon.ico
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://oropendola.dev/
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\index.htm
+Content Type: text/html
+
+Uri: https://oropendola.dev/assets/cxmockcards1.png
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\cxmockcards1.png
+Content Type: image/png
+
+Uri: https://oropendola.dev/assets/cxmockleaflet1.png
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\cxmockleaflet1.png
+Content Type: image/png
+
+Uri: https://oropendola.dev/assets/cxmockweb1.png
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\cxmockweb1.png
+Content Type: image/png
+
+Uri: https://oropendola.dev/assets/cxmockwebmbl1.png
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\cxmockwebmbl1.png
+Content Type: image/png
+
+Uri: https://oropendola.dev/assets/dlmockblog.png
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\dlmockblog.png
+Content Type: image/png
+
+Uri: https://oropendola.dev/assets/dlmockinstagram.png
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\dlmockinstagram.png
+Content Type: image/png
+
+Uri: https://oropendola.dev/assets/inspiration_app_uigif.gif
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\inspiration_app_uigif.gif
+Content Type: image/gif
+
+Uri: https://oropendola.dev/assets/Fahkwang-Bold.ttf
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\Fahkwang-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://oropendola.dev/assets/Fahkwang-ExtraLight.ttf
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\Fahkwang-ExtraLight.ttf
+Content Type: font/ttf
+
+Uri: https://oropendola.dev/assets/Fahkwang-Regular.ttf
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\Fahkwang-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://oropendola.dev/assets/github.svg
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\github.svg
+Content Type: image/svg+xml
+
+Uri: https://oropendola.dev/assets/gmail.svg
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\gmail.svg
+Content Type: image/svg+xml
+
+Uri: https://oropendola.dev/assets/linkedin.svg
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://oropendola.dev/assets/portfolio_#1mock1.png
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\portfolio_#1mock1.png
+Content Type: image/png
+
+Uri: https://oropendola.dev/assets/portfolio_#1mock2.png
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\portfolio_#1mock2.png
+Content Type: image/png
+
+Uri: https://oropendola.dev/assets/portfolio_#1mock_low.png
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\portfolio_#1mock_low.png
+Content Type: image/png
+
+Uri: https://oropendola.dev/assets/lupamovelanding.png
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\lupamovelanding.png
+Content Type: image/png
+
+Uri: https://oropendola.dev/assets/lupamovepages.png
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\lupamovepages.png
+Content Type: image/png
+
+Uri: https://oropendola.dev/assets/lupamovesocial.png
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\lupamovesocial.png
+Content Type: image/png
+
+Uri: https://oropendola.dev/assets/UltraSolarTrial.otf
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\UltraSolarTrial.otf
+Content Type: font/otf
+
+Uri: https://oropendola.dev/assets/vf_gif.gif
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\assets\vf_gif.gif
+Content Type: image/gif
+
+Uri: https://oropendola.dev/fullpage.css
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\fullpage.css
+Content Type: text/css
+
+Uri: https://oropendola.dev/fullpage.extensions.min.js
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\fullpage.extensions.min.js
+Content Type: application/javascript
+
+Uri: https://oropendola.dev/fullpage.resetSliders.min.js
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\fullpage.resetSliders.min.js
+Content Type: application/javascript
+
+Uri: https://oropendola.dev/scroll.js
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\scroll.js
+Content Type: application/javascript
+
+Uri: https://oropendola.dev/styles.css
+File Name: D:\Portfolio\cyotech\downloaded\oropendola.dev\styles.css
+Content Type: text/css
+
