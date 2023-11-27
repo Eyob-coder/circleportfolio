@@ -381,7 +381,8 @@ nav a:visited {
 }
 
 .fullimage img {
-  width: 100%;
+  height: 100vh;
+  margin-left: 20rem;
   object-fit: cover;
 }
 
@@ -398,7 +399,7 @@ nav a:visited {
 }
 
 .contactwrap img {
-  width: 100%;
+  height: 100%;
 }
 
 footer {
